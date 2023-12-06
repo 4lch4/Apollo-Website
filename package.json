@@ -1,7 +1,8 @@
 {
-  "name": "apollo-site",
+  "name": "@4lch4/apollo-web",
   "version": "0.1.0",
   "private": true,
+  "description": "The frontend for Project Apollo.",
   "type": "module",
   "scripts": {
     "build": "next build",
